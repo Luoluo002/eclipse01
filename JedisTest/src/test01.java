@@ -2,7 +2,8 @@ import redis.clients.jedis.Jedis;
 import sun.util.resources.LocaleData;
 
 public class test01 {
-	//¸üĞÂ--2020-3-23
+	//Â¸Ã¼ÃÃ‚--2020-3-23
+	//gihuaä¿®æ”¹
 	public static void main(String[] args) {
 		Jedis jedis=new Jedis("192.168.3.115", 6379);
 		jedis.connect();
